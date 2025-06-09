@@ -1,0 +1,2 @@
+[31m[-] No Response  192.168.0.1  port 1 is CLOSE Hostname:[34mUnknown 
+[31m[-] No Response  192.168.0.1  port 2 is CLOSE Hostname:[34mUnknown 
